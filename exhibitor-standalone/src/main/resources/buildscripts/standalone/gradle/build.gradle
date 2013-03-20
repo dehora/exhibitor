@@ -19,7 +19,7 @@ configurations.all {
 
 
 dependencies {
-    compile 'com.netflix.exhibitor:exhibitor-standalone:1.4.6'
+    compile 'com.netflix.exhibitor:exhibitor-standalone:1.4.7'
 }
 
 jar {
